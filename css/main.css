@@ -1,0 +1,12 @@
+#idea {
+    width: 100%;
+    height: 200;
+    flex-wrap: wrap;
+}
+h1 {
+    text-align: center;
+}
+#sendBtn {
+    margin-top: 20px;
+    width: 100%;
+}
