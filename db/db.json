@@ -1,8 +1,9 @@
 {
-    "ideas" : [
-        {
-            "id": 1,
-            "text": "Ez egy zseniális ötlet."
-        }
-    ]
+  "ideas": [
+    {
+      "id": 1,
+      "text": "Ez egy zseniális ötlet."
+    }
+    
+  ]
 }
